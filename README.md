@@ -1,6 +1,6 @@
 # AI Text Detector 🤖🔍
 
-[![Streamlit App](https://ai-text-detector-9pzpqcja7bzzpjpkzglsqf.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-text-detector-9pzpqcja7bzzpjpkzglsqf.streamlit.app/)
 
 An end-to-end Machine Learning pipeline and interactive web application built to classify text as either human-written or AI-generated. 
 
