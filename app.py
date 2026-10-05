@@ -2,6 +2,7 @@ import streamlit as st
 import joblib
 import pandas as pd
 import string
+import sklearn
 
 # 1. Page Config (Set to dark mode natively)
 st.set_page_config(page_title="AI Detector // SYS.TERMINAL", page_icon="🤖", layout="centered")
